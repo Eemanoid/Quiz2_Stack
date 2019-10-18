@@ -1,5 +1,5 @@
 package Stack;
-
+//check
 public class NMTSTACK<X> implements ISTACK<X> {
 	private X car;
 	private ISTACK<X> cdr;
